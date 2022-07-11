@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @hoseinkhoshbayan
-Experience HTML5,CSS,JQuery,Bootstarp.Node.JS.VUE.JS.PHP,Wordpress,Angular,ReactJs,GoLang,ASP.NET Core 3.1 and .Net5 and MVC
+Experience 
+Front End: HTML5, CSS3, SASS, Bootstrap, JavaScript, jQuery 
+Back End: C#, ASP.Net Core(3.1),.Net5, .Net6, ASP.Net MVC, Web API
+Database: SQL Server
 Contact with me:
 Instagram:h_khoshbayan
 Whatsapp:+989031231204
