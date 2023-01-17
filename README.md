@@ -1,11 +1,19 @@
 - 👋 Hi, I’m @hoseinkhoshbayan
-Experience 
-Front End: HTML5, CSS3, SASS, Bootstrap, JavaScript, jQuery 
-Back End: C#, ASP.Net Core(3.1),.Net5, .Net6, ASP.Net MVC, Web API
-Database: SQL Server
-Contact with me:
-Instagram:h_khoshbayan
+Senior .Net developer / +11 years of experience / C# | EF Core | .Net MAUI | Blazor | Web API | SignalR | Full-Stack expertise in ReactJs | Angular 
+\|--|/ Microservices | Clean Architecture | CQRS | MVC | gRPC | Docker 
+Database:
+SQL Server, SQLlite, MongoDB
+Front-End:
+HTML5,CSS,Bootstarp,JS,JQuery,ReactJs,Angular
+Servers:
+Windows Server 2008 - 2022 - Linux
+What I learn on my free times:
+Upgrade my skills and learn new technologies
+Feel free to contact with me:
+LinkedIn:
+https://linkedin.com/in/hoseinkhoshbayan
 Whatsapp:+989031231204
+Instagram: hosseinkhoshbayanofficial
 
 <!---
 hosseinkhoshbayan/hosseinkhoshbayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
