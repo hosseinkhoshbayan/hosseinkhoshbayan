@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoseinkhoshbayan
-Senior .Net developer / +11 years of experience / C# | EF Core | .Net MAUI | Blazor | Web API | SignalR | Full-Stack expertise in ReactJs | Angular 
+Senior .Net developer / ASP.Net Core | .Net MAUI | Blazor | Web API | SignalR | Full-Stack expertise in ReactJs | Angular 
 \|--|/ Microservices | Clean Architecture | CQRS | MVC | gRPC | Docker 
 Database:
 SQL Server, SQLlite, MongoDB
