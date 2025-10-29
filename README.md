@@ -12,8 +12,6 @@ Upgrade my skills and learn new technologies
 Feel free to contact with me:
 LinkedIn:
 https://linkedin.com/in/hoseinkhoshbayan
-Whatsapp:+989031231204
-Instagram: hosseinkhoshbayanofficial
 
 <!---
 hosseinkhoshbayan/hosseinkhoshbayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
