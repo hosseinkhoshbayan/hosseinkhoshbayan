@@ -11,7 +11,7 @@ What I learn on my free times:
 Upgrade my skills and learn new technologies
 Feel free to contact with me:
 LinkedIn:
-https://linkedin.com/in/hoseinkhoshbayan
+https://www.linkedin.com/in/hosseinkhoshbayan/
 
 <!---
 hosseinkhoshbayan/hosseinkhoshbayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
