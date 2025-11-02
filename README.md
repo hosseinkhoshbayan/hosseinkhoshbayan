@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @hoseinkhoshbayan
 .Net developer / ASP.Net Core | .Net MAUI | Blazor | Web API | SignalR | Full-Stack expertise in ReactJs | Angular 
 \|--|/ Microservices | Clean Architecture | CQRS | MVC | gRPC | Docker 
 Database:
